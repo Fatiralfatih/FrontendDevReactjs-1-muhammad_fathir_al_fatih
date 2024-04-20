@@ -2,7 +2,7 @@
 
 # React JS + Vite
 
-## stack yang digunakan
+## package yang digunakan
 - node version 20.11.0
 - react version 18.2.0
 - react-router-dom version 6.22.3
