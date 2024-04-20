@@ -1,4 +1,4 @@
-# Submission techincal test intern reactJs Developer at sekawan media 
+# Submission technical test intern reactJs Developer at sekawan media 
 
 # React JS + Vite
 
