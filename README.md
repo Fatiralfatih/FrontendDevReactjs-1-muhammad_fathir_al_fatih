@@ -52,3 +52,7 @@ npm run dev
 ```bash
 yarn dev
 ```
+
+### Demo Project
+
+[demo-project](https://frontend-dev-reactjs-1-muhammad-fathir-al-fatih.vercel.app/)
